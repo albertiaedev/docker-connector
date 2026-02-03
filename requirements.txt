@@ -1,4 +1,4 @@
-Django==4.2.27
+Django==4.2.28
 Redis==7.2.3
 Celery==5.3.4
 psycopg2-binary==2.9.5
